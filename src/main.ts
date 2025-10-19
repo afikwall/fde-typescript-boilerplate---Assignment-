@@ -1,2 +1,2 @@
 console.log("Hello from TypeScript!");
-console.log("Check")
+console.log("first commit by Afik");
